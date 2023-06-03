@@ -63,7 +63,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="blank">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,javascript,github,java,markdown,mysql,vscode&perline=14" />
   </a>
 </p>
@@ -77,9 +77,9 @@
 
 <!--icons and links-->
 <p align="center" >
-<a href = 'https://www.linkedin.com/in/15edwardz/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.edwardzhang.dev/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://github.com/15edwardz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/15edwardz/' target="blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.edwardzhang.dev/' target="blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://github.com/15edwardz' target="blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 </p>
 
