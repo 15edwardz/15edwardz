@@ -68,22 +68,5 @@
   </a>
 </p>
 
-<br>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-    <summary align="center"><h2 style="display: inline-block; padding-bottom:6px">Connect With Me</h2></summary>
-</div>
-
-<!--icons and links-->
-<p align="center" >
-<a href = 'https://www.linkedin.com/in/15edwardz/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.edwardzhang.dev/' target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://github.com/15edwardz' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-</p>
-
-
-
 ----------------------------------------------------------------------
 Last Edited on: 03/06/2023
