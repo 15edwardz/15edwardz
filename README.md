@@ -57,7 +57,7 @@
 <br>
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center">
-    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+    <h2 style="display: inline-block">Technologies I've Worked With👨🏻‍💻</h2>
 </div>
 <!--tech stack icons-->
 <p align="center">
