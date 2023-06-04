@@ -64,7 +64,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,javascript,github,java,markdown,mysql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,javascript,github,java,markdown,mysql,vscode, adobephotoshop&perline=14" />
   </a>
 </p>
 
