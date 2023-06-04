@@ -56,15 +56,13 @@
 
 <br>
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,javascript,github,java,markdown,mysql,vscode, adobephotoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,javascript,github,java,py,markdown,ps,jquery,mysql,vscode,eclipse&perline=14" />
   </a>
 </p>
 
