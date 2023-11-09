@@ -7,9 +7,9 @@
 
 
 <!--Intro start-->
-- 🎓 I’m going into my second year at Western University for Computer Science
+- 🎓 I’m in my second year at Western University for Computer Science
 
-- 💼 I am a Software Developer Intern at RBC Capital Markets
+- 💼 Part time Software Developer Intern at RBC Capital Markets
 
 - 📫 Feel free to [reach out to me](mailto:contact@edwardzhang.dev)
 
